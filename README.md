@@ -1,3 +1,3 @@
-#Medical Marijuana and Mental Health
-##by Mac Lengyel
-###May 2022
+# Medical Marijuana and Mental Health
+## by Mac Lengyel
+### May 2022
